@@ -1662,7 +1662,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rti1UTtaSU .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-rti1UTtaSU .collapsed button.navbar-toggler {
@@ -2254,7 +2254,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rti3Ebj6fN .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-rti3Ebj6fN .collapsed button.navbar-toggler {
@@ -2413,7 +2413,7 @@ body {
   color: #767676 !important;
 }
 .cid-rthRfuovFl {
-  padding-top: 60px;
+  padding-top: 120px;
   padding-bottom: 30px;
   background-color: #b2ccd2;
 }
