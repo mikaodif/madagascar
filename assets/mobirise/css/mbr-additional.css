@@ -1844,19 +1844,49 @@ body {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/mbr-1920x1271.jpg");
 }
-.cid-rtcOzct7FN {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #b2ccd2;
+.cid-rtilWLW1qi {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  background-image: url("../../../assets/images/sunset-3875295-1920-1920x1253.jpg");
 }
-.cid-rtcOzct7FN .mbr-text {
-  color: #073b4c;
+.cid-rtilWLW1qi .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
 }
-.cid-rtcOzct7FN .mbr-text p {
-  background: #ffffff;
+.cid-rtilWLW1qi .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
 }
-.cid-rtcOzct7FN .mbr-text P {
-  text-align: left;
+.cid-rtilWLW1qi .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rtilWLW1qi .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rtilWLW1qi .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rtilWLW1qi .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rtilWLW1qi .card .panel-body {
+  color: #767676;
+}
+.cid-rtilWLW1qi H4 {
+  color: #cc2952;
+}
+.cid-rtilWLW1qi H2 {
+  color: #cc2952;
 }
 .cid-rtcS7lHxmX {
   padding-top: 90px;
@@ -2554,4 +2584,447 @@ body {
 }
 .cid-rthUBVeKOn .mbr-text {
   color: #767676;
+}
+.cid-rti1UTtaSU .navbar {
+  background: #ffffff;
+  transition: none;
+  min-height: 77px;
+  padding: .5rem 0;
+}
+.cid-rti1UTtaSU .navbar-dropdown.bg-color.transparent.opened {
+  background: #ffffff;
+}
+.cid-rti1UTtaSU a {
+  font-style: normal;
+}
+.cid-rti1UTtaSU .nav-item span {
+  padding-right: 0.4em;
+  line-height: 0.5em;
+  vertical-align: text-bottom;
+  position: relative;
+  text-decoration: none;
+}
+.cid-rti1UTtaSU .nav-item a {
+  display: -webkit-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem 0 !important;
+  margin: 0rem .65rem !important;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-rti1UTtaSU .nav-item:focus,
+.cid-rti1UTtaSU .nav-link:focus {
+  outline: none;
+}
+.cid-rti1UTtaSU .btn {
+  padding: 0.4rem 1.5rem;
+  display: -webkit-inline-flex;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rti1UTtaSU .btn .mbr-iconfont {
+  font-size: 1.6rem;
+}
+.cid-rti1UTtaSU .menu-logo {
+  margin-right: auto;
+}
+.cid-rti1UTtaSU .menu-logo .navbar-brand {
+  display: flex;
+  margin-left: 5rem;
+  padding: 0;
+  transition: padding .2s;
+  min-height: 3.8rem;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rti1UTtaSU .menu-logo .navbar-brand .navbar-caption-wrap {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  word-break: break-word;
+  min-width: 7rem;
+  margin: .3rem 0;
+}
+.cid-rti1UTtaSU .menu-logo .navbar-brand .navbar-caption-wrap .navbar-caption {
+  line-height: 1.2rem !important;
+  padding-right: 2rem;
+}
+.cid-rti1UTtaSU .menu-logo .navbar-brand .navbar-logo {
+  font-size: 4rem;
+  transition: font-size 0.25s;
+}
+.cid-rti1UTtaSU .menu-logo .navbar-brand .navbar-logo img {
+  display: flex;
+}
+.cid-rti1UTtaSU .menu-logo .navbar-brand .navbar-logo .mbr-iconfont {
+  transition: font-size 0.25s;
+}
+.cid-rti1UTtaSU .menu-logo .navbar-brand .navbar-logo a {
+  display: inline-flex;
+}
+.cid-rti1UTtaSU .navbar-toggleable-sm .navbar-collapse {
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+  padding-right: 5rem;
+  width: auto;
+}
+.cid-rti1UTtaSU .navbar-toggleable-sm .navbar-collapse .navbar-nav {
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-left: 0;
+}
+.cid-rti1UTtaSU .navbar-toggleable-sm .navbar-collapse .navbar-nav .nav-item {
+  -webkit-align-self: center;
+  align-self: center;
+}
+.cid-rti1UTtaSU .navbar-toggleable-sm .navbar-collapse .navbar-buttons {
+  padding-left: 0;
+  padding-bottom: 0;
+}
+.cid-rti1UTtaSU .dropdown .dropdown-menu {
+  background: #ffffff;
+  display: none;
+  position: absolute;
+  min-width: 5rem;
+  padding-top: 1.4rem;
+  padding-bottom: 1.4rem;
+  text-align: left;
+}
+.cid-rti1UTtaSU .dropdown .dropdown-menu .dropdown-item {
+  width: auto;
+  padding: 0.235em 1.5385em 0.235em 1.5385em !important;
+}
+.cid-rti1UTtaSU .dropdown .dropdown-menu .dropdown-item::after {
+  right: 0.5rem;
+}
+.cid-rti1UTtaSU .dropdown .dropdown-menu .dropdown-submenu {
+  margin: 0;
+}
+.cid-rti1UTtaSU .dropdown.open > .dropdown-menu {
+  display: block;
+}
+.cid-rti1UTtaSU .navbar-toggleable-sm.opened:after {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  content: '';
+  background-color: rgba(0, 0, 0, 0.1);
+  left: 0;
+  bottom: 0;
+  transform: translateY(100%);
+  -webkit-transform: translateY(100%);
+  z-index: 1000;
+}
+.cid-rti1UTtaSU .navbar.navbar-short {
+  min-height: 60px;
+  transition: all .2s;
+}
+.cid-rti1UTtaSU .navbar.navbar-short .navbar-toggler-right {
+  top: 20px;
+}
+.cid-rti1UTtaSU .navbar.navbar-short .navbar-logo a {
+  font-size: 2.5rem !important;
+  line-height: 2.5rem;
+  transition: font-size 0.25s;
+}
+.cid-rti1UTtaSU .navbar.navbar-short .navbar-logo a .mbr-iconfont {
+  font-size: 2.5rem !important;
+}
+.cid-rti1UTtaSU .navbar.navbar-short .navbar-logo a img {
+  height: 3rem !important;
+}
+.cid-rti1UTtaSU .navbar.navbar-short .navbar-brand {
+  min-height: 3rem;
+}
+.cid-rti1UTtaSU button.navbar-toggler {
+  width: 31px;
+  height: 18px;
+  cursor: pointer;
+  transition: all .2s;
+  top: 1.5rem;
+  right: 1rem;
+}
+.cid-rti1UTtaSU button.navbar-toggler:focus {
+  outline: none;
+}
+.cid-rti1UTtaSU button.navbar-toggler .hamburger span {
+  position: absolute;
+  right: 0;
+  width: 30px;
+  height: 2px;
+  border-right: 5px;
+  background-color: #333333;
+}
+.cid-rti1UTtaSU button.navbar-toggler .hamburger span:nth-child(1) {
+  top: 0;
+  transition: all .2s;
+}
+.cid-rti1UTtaSU button.navbar-toggler .hamburger span:nth-child(2) {
+  top: 8px;
+  transition: all .15s;
+}
+.cid-rti1UTtaSU button.navbar-toggler .hamburger span:nth-child(3) {
+  top: 8px;
+  transition: all .15s;
+}
+.cid-rti1UTtaSU button.navbar-toggler .hamburger span:nth-child(4) {
+  top: 16px;
+  transition: all .2s;
+}
+.cid-rti1UTtaSU nav.opened .hamburger span:nth-child(1) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all .2s;
+}
+.cid-rti1UTtaSU nav.opened .hamburger span:nth-child(2) {
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  transition: all .25s;
+}
+.cid-rti1UTtaSU nav.opened .hamburger span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  transition: all .25s;
+}
+.cid-rti1UTtaSU nav.opened .hamburger span:nth-child(4) {
+  top: 8px;
+  width: 0;
+  opacity: 0;
+  right: 50%;
+  transition: all .2s;
+}
+.cid-rti1UTtaSU .collapsed.navbar-expand {
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.cid-rti1UTtaSU .collapsed .btn {
+  display: -webkit-flex;
+}
+.cid-rti1UTtaSU .collapsed .navbar-collapse {
+  display: none !important;
+  padding-right: 0 !important;
+}
+.cid-rti1UTtaSU .collapsed .navbar-collapse.collapsing,
+.cid-rti1UTtaSU .collapsed .navbar-collapse.show {
+  display: block !important;
+}
+.cid-rti1UTtaSU .collapsed .navbar-collapse.collapsing .navbar-nav,
+.cid-rti1UTtaSU .collapsed .navbar-collapse.show .navbar-nav {
+  display: block;
+  text-align: center;
+}
+.cid-rti1UTtaSU .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item,
+.cid-rti1UTtaSU .collapsed .navbar-collapse.show .navbar-nav .nav-item {
+  clear: both;
+}
+.cid-rti1UTtaSU .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rti1UTtaSU .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
+.cid-rti1UTtaSU .collapsed .navbar-collapse.collapsing .navbar-buttons,
+.cid-rti1UTtaSU .collapsed .navbar-collapse.show .navbar-buttons {
+  text-align: center;
+}
+.cid-rti1UTtaSU .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
+.cid-rti1UTtaSU .collapsed .navbar-collapse.show .navbar-buttons:last-child {
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rti1UTtaSU .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
+.cid-rti1UTtaSU .collapsed button.navbar-toggler {
+  display: block;
+}
+.cid-rti1UTtaSU .collapsed .navbar-brand {
+  margin-left: 1rem !important;
+}
+.cid-rti1UTtaSU .collapsed .navbar-toggleable-sm {
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.cid-rti1UTtaSU .collapsed .dropdown .dropdown-menu {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  opacity: 0;
+  overflow: hidden;
+  display: block;
+  height: 0;
+  visibility: hidden;
+  padding: 0;
+  transition-duration: .5s;
+  transition-property: opacity,padding,height;
+}
+.cid-rti1UTtaSU .collapsed .dropdown.open > .dropdown-menu {
+  position: relative;
+  opacity: 1;
+  height: auto;
+  padding: 1.4rem 0;
+  visibility: visible;
+}
+.cid-rti1UTtaSU .collapsed .dropdown .dropdown-submenu {
+  left: 0;
+  text-align: center;
+  width: 100%;
+}
+.cid-rti1UTtaSU .collapsed .dropdown .dropdown-toggle[data-toggle="dropdown-submenu"]::after {
+  margin-top: 0;
+  position: inherit;
+  right: 0;
+  top: 50%;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: .3em;
+  vertical-align: middle;
+  content: "";
+  border-top: .30em solid;
+  border-right: .30em solid transparent;
+  border-left: .30em solid transparent;
+}
+@media (max-width: 991px) {
+  .cid-rti1UTtaSU.navbar-expand {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-rti1UTtaSU img {
+    height: 3.8rem !important;
+  }
+  .cid-rti1UTtaSU .btn {
+    display: -webkit-flex;
+  }
+  .cid-rti1UTtaSU button.navbar-toggler {
+    display: block;
+  }
+  .cid-rti1UTtaSU .navbar-brand {
+    margin-left: 1rem !important;
+  }
+  .cid-rti1UTtaSU .navbar-toggleable-sm {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-rti1UTtaSU .navbar-collapse {
+    display: none !important;
+    padding-right: 0 !important;
+  }
+  .cid-rti1UTtaSU .navbar-collapse.collapsing,
+  .cid-rti1UTtaSU .navbar-collapse.show {
+    display: block !important;
+  }
+  .cid-rti1UTtaSU .navbar-collapse.collapsing .navbar-nav,
+  .cid-rti1UTtaSU .navbar-collapse.show .navbar-nav {
+    display: block;
+    text-align: center;
+  }
+  .cid-rti1UTtaSU .navbar-collapse.collapsing .navbar-nav .nav-item,
+  .cid-rti1UTtaSU .navbar-collapse.show .navbar-nav .nav-item {
+    clear: both;
+  }
+  .cid-rti1UTtaSU .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rti1UTtaSU .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
+  .cid-rti1UTtaSU .navbar-collapse.collapsing .navbar-buttons,
+  .cid-rti1UTtaSU .navbar-collapse.show .navbar-buttons {
+    text-align: center;
+  }
+  .cid-rti1UTtaSU .navbar-collapse.collapsing .navbar-buttons:last-child,
+  .cid-rti1UTtaSU .navbar-collapse.show .navbar-buttons:last-child {
+    margin-bottom: 1rem;
+  }
+  .cid-rti1UTtaSU .dropdown .dropdown-menu {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    opacity: 0;
+    overflow: hidden;
+    display: block;
+    height: 0;
+    visibility: hidden;
+    padding: 0;
+    transition-duration: .5s;
+    transition-property: opacity,padding,height;
+  }
+  .cid-rti1UTtaSU .dropdown.open > .dropdown-menu {
+    position: relative;
+    opacity: 1;
+    height: auto;
+    padding: 1.4rem 0;
+    visibility: visible;
+  }
+  .cid-rti1UTtaSU .dropdown .dropdown-submenu {
+    left: 0;
+    text-align: center;
+    width: 100%;
+  }
+  .cid-rti1UTtaSU .dropdown .dropdown-toggle[data-toggle="dropdown-submenu"]::after {
+    margin-top: 0;
+    position: inherit;
+    right: 0;
+    top: 50%;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .3em;
+    vertical-align: middle;
+    content: "";
+    border-top: .30em solid;
+    border-right: .30em solid transparent;
+    border-left: .30em solid transparent;
+  }
+}
+@media (min-width: 767px) {
+  .cid-rti1UTtaSU .menu-logo {
+    flex-shrink: 0;
+    -webkit-flex-shrink: 0;
+  }
+}
+.cid-rti1UTtaSU .navbar-collapse {
+  flex-basis: auto;
+  -webkit-flex-basis: auto;
+}
+.cid-rti1UTtaSU .nav-link:hover,
+.cid-rti1UTtaSU .dropdown-item:hover {
+  color: #767676 !important;
+}
+.cid-rtipGqYx60 {
+  background: #ffffff;
+}
+.cid-rtipGqYx60 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rtipGqYx60 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rtipHfEzMU {
+  background: #ffffff;
+}
+.cid-rtipHfEzMU .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rtipHfEzMU .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rtipI7m6Sh {
+  background: #ffffff;
+}
+.cid-rtipI7m6Sh .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rtipI7m6Sh .video-block {
+    width: 100% !important;
+  }
 }
